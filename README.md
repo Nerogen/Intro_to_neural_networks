@@ -29,6 +29,6 @@
     2
     500
 #### archive usage of recover
-     3
+3
     1
     ./directory_for_compressed_image_bytes/4_result.png
